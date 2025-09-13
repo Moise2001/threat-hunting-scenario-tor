@@ -76,21 +76,10 @@ DeviceFileEvents
 ---
 
 ## Created By:
-- **Author Name**: Josh Madakor
-- **Author Contact**: https://www.linkedin.com/in/joshmadakor/
-- **Date**: August 31, 2024
+- **Author Name**: Moise Cheristin
+- **Author Contact**: https://www.linkedin.com/in/moisecheristin/
+- **Date**: September 13, 2025
 
-## Validated By:
-- **Reviewer Name**: 
-- **Reviewer Contact**: 
-- **Validation Date**: 
-
----
-
-## Additional Notes:
-- **None**
-
----
 
 ## Revision History:
 | **Version** | **Changes**                   | **Date**         | **Modified By**   |
